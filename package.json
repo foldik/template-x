@@ -1,0 +1,25 @@
+{
+  "name": "template-x",
+  "version": "0.0.2",
+  "description": "Simple template engine",
+  "main": "template.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foldik/template-x.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "foldik <foldi.kristof@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foldik/template-x/issues"
+  },
+  "homepage": "https://github.com/foldik/template-x#readme",
+  "dependencies": {
+    "foldik-logger": "0.0.1"
+  }
+}
