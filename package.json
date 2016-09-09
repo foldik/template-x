@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/foldik/template-x#readme",
   "dependencies": {
-    "foldik-logger": "0.0.1"
+    "foldik-logger": "0.0.2"
   }
 }
